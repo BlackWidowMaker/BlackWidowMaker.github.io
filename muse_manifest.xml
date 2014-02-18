@@ -1,14 +1,14 @@
 <manifest alg="2" build="232" opt="true" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="508068545"/>
-    <file name="master_a-master.css" crc="28576662" ref="contact:technologies:index:services"/>
+    <file name="master_a-master.css" crc="349178881" ref="contact:technologies:index:services"/>
     <file name="master_b-master.css" crc="487528898" ref="portfolio"/>
-    <file name="contact.css" crc="350429081" ref="contact"/>
-    <file name="technologies.css" crc="3785036572" ref="technologies"/>
-    <file name="index.css" crc="4172226885" ref="index"/>
-    <file name="iefonts_index.css" crc="4122926558" ref="index"/>
+    <file name="contact.css" crc="4077811576" ref="contact"/>
+    <file name="technologies.css" crc="4263866244" ref="technologies"/>
+    <file name="index.css" crc="3983038343" ref="index"/>
+    <file name="iefonts_index.css" crc="3766548359" ref="index"/>
     <file name="portfolio.css" crc="77143151" ref="portfolio"/>
-    <file name="services.css" crc="192665309" ref="services"/>
+    <file name="services.css" crc="4017037795" ref="services"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="phone>index:phone>services:phone>technologies:phone>portfolio:phone>contact:tablet>index:tablet>services:tablet>technologies:tablet>portfolio:tablet>contact:index:services:portfolio:contact:technologies"/>
@@ -22,7 +22,7 @@
     <file name="musewpdisclosure.js" crc="250538392" ref="phone>index:phone>services:phone>technologies:phone>contact:technologies"/>
     <file name="jquery.tobrowserwidth.js" crc="152985095" ref="phone>index:phone>services:phone>technologies:phone>contact:tablet>index:tablet>services:tablet>technologies:tablet>contact:index:services:portfolio:contact:technologies"/>
     <file name="jquery.watch.js" crc="4199601726" ref="phone>index:phone>services:phone>technologies:phone>portfolio:phone>contact:tablet>index:tablet>services:tablet>technologies:tablet>portfolio:tablet>contact:index:services:portfolio:contact:technologies"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="tablet>index:index:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="tablet>index:index"/>
     <file name="museredirect.js" crc="299715755" ref="index:services:contact:technologies"/>
     <file name="form_check.php" crc="4233309083" ref="contact"/>
     <file name="form_throttle.php" crc="520852640" ref="contact"/>
@@ -34,14 +34,14 @@
     <file name="blank.gif" crc="4208392903" ref="phone>index:phone>services:phone>technologies:phone>contact:tablet>index:tablet>services:tablet>technologies:tablet>contact:index:services:contact:technologies"/>
     <file name="fearnot601x242.jpg" crc="316600289" ref="phone>index"/>
     <file name="mockup-tigris380x254.jpg" crc="127409466" ref="phone>index"/>
-    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index:contact"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
     <file name="tigris_0000s_0015_passion-by-design.png" crc="55167254" ref="phone>index:phone>services:phone>technologies:phone>contact:tablet>index:tablet>services:tablet>technologies:tablet>contact:index:services:portfolio:contact:technologies"/>
-    <file name="tigris_0000s_0016_tigris-logo.png" crc="321251768" ref="phone>index:phone>services:phone>technologies:phone>contact:tablet>index:tablet>services:tablet>technologies:tablet>contact:index:services:portfolio:contact:technologies"/>
+    <file name="tigris_0000s_0016_tigris-logo.png" crc="321251768" ref="phone>index:phone>services:phone>technologies:phone>contact:tablet>index:tablet>services:tablet>technologies:tablet>contact:portfolio"/>
     <file name="down-arrow.png" crc="114108420" ref="phone>index"/>
-    <file name="twitter.png" crc="4102706121" ref="phone>index:tablet>index:index:portfolio:contact"/>
-    <file name="facebook.png" crc="317936629" ref="phone>index:tablet>index:index:portfolio:contact"/>
-    <file name="linkedin.png" crc="425971177" ref="phone>index:tablet>index:index:portfolio:contact"/>
-    <file name="rss.png" crc="3858264630" ref="phone>index:tablet>index:index:portfolio:contact"/>
+    <file name="twitter.png" crc="4102706121" ref="phone>index:tablet>index:index:portfolio"/>
+    <file name="facebook.png" crc="317936629" ref="phone>index:tablet>index:index:portfolio"/>
+    <file name="linkedin.png" crc="425971177" ref="phone>index:tablet>index:index:portfolio"/>
+    <file name="rss.png" crc="3858264630" ref="phone>index:tablet>index:index:portfolio"/>
     <file name="amex.png" crc="3975029720" ref="phone>index:phone>services:phone>technologies:phone>contact:tablet>index:tablet>services:tablet>technologies:tablet>contact:index:services:contact:technologies"/>
     <file name="mastercard.png" crc="4008619089" ref="phone>index:phone>services:phone>technologies:phone>contact:tablet>index:tablet>services:tablet>technologies:tablet>contact:index:services:contact:technologies"/>
     <file name="discover.png" crc="3866806732" ref="phone>index:phone>services:phone>technologies:phone>contact:tablet>index:tablet>services:tablet>technologies:tablet>contact:index:services:contact:technologies"/>
@@ -51,7 +51,7 @@
     <file name="designtnt-laptops-mockups869x500.jpg" crc="3942417057" ref="tablet>index"/>
     <file name="fearnot.jpg" crc="69302742" ref="tablet>index:tablet>services:tablet>technologies:tablet>contact:index:services:contact:technologies"/>
     <file name="mockup-tigris750x501.jpg" crc="4288267103" ref="tablet>index"/>
-    <file name="tigris_0001s_0015_2004-07-14_2600x1500_chicago_lake_skyline.png" crc="4009481694" ref="tablet>index:index:contact"/>
+    <file name="tigris_0001s_0015_2004-07-14_2600x1500_chicago_lake_skyline.png" crc="4009481694" ref="tablet>index:index"/>
     <file name="hard slit separator.png" crc="4180292817" ref="tablet>index:tablet>services:tablet>technologies:tablet>contact:index:services:contact:technologies"/>
     <file name="designtnt-laptops-mockups.jpg" crc="4127071071" ref="index:services:contact:technologies"/>
     <file name="mockup-tigris.jpg" crc="4140150407" ref="index:services:contact:technologies"/>
@@ -71,6 +71,8 @@
     <file name="smallflower.jpg" crc="3887170281" ref="technologies"/>
     <file name="bigflower.jpg" crc="3953877111" ref="technologies"/>
     <file name="leaves.jpg" crc="4029223167" ref="technologies"/>
+    <file name="dropbox.png" crc="3930977613" ref="index"/>
+    <file name="skype.png" crc="4267061425" ref="index"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -102,9 +104,9 @@
     <file name="portfolio.html" crc="4225846358" mt="1391814734500" redirect="false"/>
     <file name="contact.html" crc="4065468618" mt="1392722756298" redirect="true"/>
   </folder>
-  <file name="index.html" crc="467247730" mt="1392722756270" redirect="true"/>
-  <file name="services.html" crc="4190427694" mt="1392722756272" redirect="true"/>
+  <file name="index.html" crc="3884029625" mt="1392726738268" redirect="true"/>
+  <file name="services.html" crc="3983893450" mt="1392726621504" redirect="true"/>
   <file name="portfolio.html" crc="4058134914" mt="1392722377127" redirect="true"/>
-  <file name="contact.html" crc="4014194924" mt="1392723330647" redirect="true"/>
-  <file name="technologies.html" crc="174809643" mt="1392722756276" redirect="true"/>
+  <file name="contact.html" crc="155015083" mt="1392726621506" redirect="true"/>
+  <file name="technologies.html" crc="482320061" mt="1392726621508" redirect="true"/>
 </manifest>
